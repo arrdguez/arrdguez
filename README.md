@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology, Science and Fintech
 - 🌱 I’m working as API designer at GFT in the BBVA proyect.
 - 💪 Currently growing as Data Science for bussines, Macroeconomics and BlockChain Technologies.
-- 📫 How to reach me? alerrdguez88@gmail.com
+- 📫 How to reach me? ---
 
 <!---
 arrdguez/arrdguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
