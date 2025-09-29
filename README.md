@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alejandro
 - 👀 I’m interested in Technology, Science and Fintech
-- 🌱 I’m working as API designer at GFT in the BBVA proyect.
+- 🌱 I’m working as API designer at BBVA.
 - 💪 Currently growing as Data Science for bussines, Macroeconomics and BlockChain Technologies.
 - 📫 How to reach me? ---
 
