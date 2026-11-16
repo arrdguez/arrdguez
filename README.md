@@ -17,7 +17,7 @@
 
 ### 🚀 Sobre mí · About me
 
-Hola, soy **Alejandro** — *hola, I'm Alejandro* — diseñador de APIs en **BBVA**, apasionado por la tecnología, la ciencia y las finanzas. Actualmente crezco como **Data Scientist**, explorando **macroeconomía**, **blockchain** y **trading cuantitativo**. Vivo en 🇲🇽 Ciudad de México.
+Hola, soy **Alejandro** — *hola, I'm Alejandro* — diseñador de APIs en **BBVA**, apasionado por la tecnología, la ciencia y las finanzas. Actualmente crezco como **Data Scientist**, explorando **macroeconomía**, **blockchain** y **trading cuantitativo**. 
 
 ### 💡 Lo que me mueve · What I'm into
 
@@ -55,7 +55,6 @@ Hola, soy **Alejandro** — *hola, I'm Alejandro* — diseñador de APIs en **BB
 
 ### 📫 Contacto · Contact
 
-[![Email](https://img.shields.io/badge/Email-rodriguezralejo88%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodriguezralejo88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-arrdguez-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arrdguez)
 
 ---
