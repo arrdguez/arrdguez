@@ -14,6 +14,12 @@
 
 Hola, soy **Alejandro** — *hola, I'm Alejandro* — diseñador de APIs en **BBVA**, apasionado por la tecnología, la ciencia y las finanzas. Actualmente crezco como **Data Scientist**, explorando **macroeconomía**, **blockchain** y **trading cuantitativo**. 
 
+### 🎯 Proyecto destacado · Featured
+
+| | |
+|---|---|
+| <img src="https://play-lh.googleusercontent.com/OnoWIc9UV6KUHOG7JFWXWipnYcFRo6RLprqiaZ3hYrWsX-U3Olc4gNuuHqIpcvmvqK4c3bAbWUrJTaDwv_r3Mw=w256-h256" width="88" height="88" alt="Zen of Go"> | **♟️ Zen of Go** — desarrollador de la app para jugar Go en Android. Mi principal aporte.<br>[![Google Play](https://img.shields.io/badge/Google%20Play-Zen%20of%20Go-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zengo.app) |
+
 ### 💡 Lo que me mueve · What I'm into
 
 | 🔭 Interés · Interest | ✨ Por qué · Why |
@@ -51,6 +57,7 @@ Hola, soy **Alejandro** — *hola, I'm Alejandro* — diseñador de APIs en **BB
 ### 📫 Contacto · Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-arrdguez-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arrdguez)
+[![Web](https://img.shields.io/badge/Web-Portfolio-8B5CF6?style=flat-square)](https://arrdguez.github.io/arodriguez/)
 
 ---
 
