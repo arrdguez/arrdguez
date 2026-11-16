@@ -4,11 +4,6 @@
 
 # Alejandro Rodríguez
 
-**API Designer @ BBVA · Data Science · Fintech**
-
-*Construyendo puentes entre la tecnología y los negocios.*
-*Building bridges between technology and business.*
-
 [![Visitas](https://komarev.com/ghpvc/?username=arrdguez&color=blueviolet&style=flat-square)](https://github.com/arrdguez)
 
 </div>
